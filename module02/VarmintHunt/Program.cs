@@ -10,6 +10,9 @@ class VarmintHunt
         sam.takePhoto();
         sam.getPhotos();
 
+        for(int i = 0; i < 10; i++)
+            Console.WriteLine("i is " + i);
+
         try {
             int[] trouble = new int[3];
             trouble[3] = 5;

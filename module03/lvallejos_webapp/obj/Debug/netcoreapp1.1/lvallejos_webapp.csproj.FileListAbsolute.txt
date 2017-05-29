@@ -1,0 +1,8 @@
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/bin/Debug/netcoreapp1.1/lvallejos_webapp.deps.json
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/bin/Debug/netcoreapp1.1/lvallejos_webapp.runtimeconfig.json
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/bin/Debug/netcoreapp1.1/lvallejos_webapp.runtimeconfig.dev.json
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/bin/Debug/netcoreapp1.1/lvallejos_webapp.dll
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/bin/Debug/netcoreapp1.1/lvallejos_webapp.pdb
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/obj/Debug/netcoreapp1.1/lvallejos_webapp.AssemblyInfo.cs
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/obj/Debug/netcoreapp1.1/lvallejos_webapp.dll
+/Users/kamus/github/fabian/rasmussen-csharp-programming-cop2456c/module03/lvallejos_webapp/obj/Debug/netcoreapp1.1/lvallejos_webapp.pdb
